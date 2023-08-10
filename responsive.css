@@ -5,6 +5,14 @@
         width: 50%;
         margin-bottom: 50px;
     }
+
+    .top-wrapper h1{
+        font-size :32px;
+    }
+
+    .heading h2{
+        font-size: 20px;
+    }
 }
 
 /*スマホ向けレイアウト*/
@@ -29,5 +37,9 @@
     .top-wrapper{
         text-align: left;
         padding-top: 130px;
+    }
+
+    .top-wrapper h1{
+        font-size: 24px;
     }
 }
