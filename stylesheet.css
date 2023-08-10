@@ -119,6 +119,8 @@ header{
     display: block;
     float: left;
     transition: all 1.5s;
+
+    margin-left: 20px;
 }
 
 .lesson-wrapper{
